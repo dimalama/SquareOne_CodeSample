@@ -1,0 +1,27 @@
+/**
+ * @fileoverview Main Styles file
+ *
+ * @autor Dmitry Lukianenko on 3/4/15.
+ *
+ * @license
+ */
+paper-button.colored {
+  color: #4285f4; }
+
+paper-button[raised].colored {
+  background: #4285f4;
+  color: #fff; }
+
+.wrapper paper-input-decorator {
+  width: 200px; }
+.wrapper paper-button,
+.wrapper .text-element {
+  position: absolute; }
+.wrapper .text-element {
+  top: 47px;
+  left: 8px; }
+.wrapper paper-button {
+  top: 29px;
+  left: 240px; }
+
+/*# sourceMappingURL=main.css.map */
